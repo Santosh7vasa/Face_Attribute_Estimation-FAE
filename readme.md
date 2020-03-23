@@ -1,4 +1,4 @@
-# PYTORCH GLASS DETECTOR USING TRANSFER LEARNING.
+# PYTORCH GLASS CLASSIFIER USING TRANSFER LEARNING.
 
 ### Used Pytorch to train and validate the model, check "./src/glass_classifier_training.ipynb".
 > To train build the celeba dataset with two classes(glasses and without glasses) and do the test-train split.

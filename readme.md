@@ -1,7 +1,7 @@
 # Face Attribute Estimation Using Pytorch Transfer Learning
 * You get to choose the Attributes, Model you want to classify/Estimate. 
 * Install the requirements from requirements.txt
-> pip install requirements.txt
+> pip install -r requirements.txt
 * Follow running the notebooks in this order.
   * Data-Processing
   * Face Attribute Estimation training
